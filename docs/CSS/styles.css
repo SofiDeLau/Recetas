@@ -1,0 +1,22 @@
+.titulo-lemmon {
+    background-color: #FEF400;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+.titulo-carrot{
+    background-color: #FEA500;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+.subtitulo{
+    background-color: #EAEAEA;
+    color: #000000;
+    font-style: italic;
+}
+
+.general{
+    color: #444444;
+    font-family: Arial, sans-serif;
+}
