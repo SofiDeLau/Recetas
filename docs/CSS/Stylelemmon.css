@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+.titulo{
+    background-image: url('../Img/lemon-background.png');
+    background-size: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo-lemmon {
+    padding-top: 200px;
+    padding-left: 10px;
+}
+
+.titulo-general{
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.subtitulo{
+    color: black;
+    font-family: 'Playfair Display', serif;
+}
+
+.general{
+    color: #444;
+    font-family: 'Inter', sans-serif;
+}
+
+.lista{
+    list-style: none;
+}
+
+.fas.fa-lemon{
+    font-size: 80%;
+}
